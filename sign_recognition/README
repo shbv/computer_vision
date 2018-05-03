@@ -1,0 +1,4 @@
+Classify sign numbers using hands with: 
+    1. Fully connected neural networks
+    2. Convolution neural networks
+Built using tensorflow

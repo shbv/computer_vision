@@ -1,0 +1,2 @@
+model_checkpoint_path: "sign_classifer"
+all_model_checkpoint_paths: "sign_classifer"

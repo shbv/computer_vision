@@ -1,0 +1,7 @@
+Basics:
+- Reading/Viewing/Analyzing/Processing image data.
+- Tensorflow operations, graphs, scope, etc.
+- Convolution operation
+- Read celeb data and look at output of conv operation using 
+    - gaussian filter 
+    - gabor filter
